@@ -6,7 +6,8 @@ Creator: Saeb Khanzadeh http://skhanzadeh.ir saeb.bnam@gmail.com
 description: this is a Nodejs app for Bale.ai to Create bot
 Update: Jan/21 2017
 Version 0.22.0
-
+https://libraries.io/npm/nasim-bot
+https://www.npmjs.com/package/nasim-bot
 */
 const Platform = require("./index");
  
